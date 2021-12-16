@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dacd8e84-8ed3-4a1d-bbf4-aa059e6f3b6c": {
+      "ProjectGuid": "dacd8e84-8ed3-4a1d-bbf4-aa059e6f3b6c",
+      "DisplayName": "UnityLESSON_CSharp_ClassExample1",
+      "ColorIndex": 0
+    },
+    "9e2ad8da-1829-432a-be84-703b2a1679df": {
+      "ProjectGuid": "9e2ad8da-1829-432a-be84-703b2a1679df",
+      "DisplayName": "UnityLesson_CSharp_ClassExample2",
+      "ColorIndex": 1
+    },
+    "330d7a2b-f8e0-4c1c-a6f5-6fcdac6fdfdd": {
+      "ProjectGuid": "330d7a2b-f8e0-4c1c-a6f5-6fcdac6fdfdd",
+      "DisplayName": "UnityLesson_CSharp_Class_Program",
+      "ColorIndex": 2
+    },
+    "b366ab7e-3997-4c46-af6c-3c9611da69c9": {
+      "ProjectGuid": "b366ab7e-3997-4c46-af6c-3c9611da69c9",
+      "DisplayName": "UnityLesson_CSharp_Class_Variables",
+      "ColorIndex": 3
+    },
+    "cd81bbdd-84fd-489e-9684-04e41907da49": {
+      "ProjectGuid": "cd81bbdd-84fd-489e-9684-04e41907da49",
+      "DisplayName": "UnityLesson_CSharp_Class_If",
+      "ColorIndex": 4
+    },
+    "ca43e0d5-e6cc-443e-8ca2-870bf2819245": {
+      "ProjectGuid": "ca43e0d5-e6cc-443e-8ca2-870bf2819245",
+      "DisplayName": "UnityLesson_CSharp_Class_Function",
+      "ColorIndex": 5
+    },
+    "72a18d7f-6d48-4d27-ac99-c128fec80584": {
+      "ProjectGuid": "72a18d7f-6d48-4d27-ac99-c128fec80584",
+      "DisplayName": "UnityLesson_CSharp_Class_VariableAndFunction",
+      "ColorIndex": 6
+    },
+    "9b9eff50-376e-4729-8c91-de4ace8f17d6": {
+      "ProjectGuid": "9b9eff50-376e-4729-8c91-de4ace8f17d6",
+      "DisplayName": "UnityLesson_CSharp_Class_ObjectInstance",
+      "ColorIndex": 7
+    },
+    "9a5fb937-bc8c-444b-ad2e-1315503c71fd": {
+      "ProjectGuid": "9a5fb937-bc8c-444b-ad2e-1315503c71fd",
+      "DisplayName": "UnityLesson_CSharp_InstanciationOfClassIncludingVariablesAndFunctions",
+      "ColorIndex": 8
+    },
+    "39494a7f-4f28-44fb-8079-05a2a1d2a093": {
+      "ProjectGuid": "39494a7f-4f28-44fb-8079-05a2a1d2a093",
+      "DisplayName": "Unity_CSharp_Class_StaticExagample",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
