@@ -1,0 +1,7 @@
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_If\bin\Debug\UnityLesson_CSharp_Class_If.exe.config
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_If\bin\Debug\UnityLesson_CSharp_Class_If.exe
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_If\bin\Debug\UnityLesson_CSharp_Class_If.pdb
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_If\obj\Debug\UnityLesson_CSharp_Class_If.csproj.SuggestedBindingRedirects.cache
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_If\obj\Debug\UnityLesson_CSharp_Class_If.csproj.CoreCompileInputs.cache
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_If\obj\Debug\UnityLesson_CSharp_Class_If.exe
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_If\obj\Debug\UnityLesson_CSharp_Class_If.pdb

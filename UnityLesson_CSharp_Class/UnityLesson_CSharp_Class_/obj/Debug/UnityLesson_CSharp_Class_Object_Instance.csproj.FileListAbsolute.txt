@@ -5,3 +5,11 @@ C:\Users\User\AppData\Local\GitHubDesktop\UnityLesson_CSharp_Class_\UnityLesson_
 C:\Users\User\AppData\Local\GitHubDesktop\UnityLesson_CSharp_Class_\UnityLesson_CSharp_Class_\obj\Debug\UnityLesson_CSharp_Class_Object_Instance.csproj.CoreCompileInputs.cache
 C:\Users\User\AppData\Local\GitHubDesktop\UnityLesson_CSharp_Class_\UnityLesson_CSharp_Class_\obj\Debug\UnityLesson_CSharp_Class_.exe
 C:\Users\User\AppData\Local\GitHubDesktop\UnityLesson_CSharp_Class_\UnityLesson_CSharp_Class_\obj\Debug\UnityLesson_CSharp_Class_.pdb
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_\bin\Debug\UnityLesson_CSharp_Class_.exe.config
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_\bin\Debug\UnityLesson_CSharp_Class_.exe
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_\bin\Debug\UnityLesson_CSharp_Class_.pdb
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_\obj\Debug\UnityLesson_CSharp_Class_Object_Instance.csproj.AssemblyReference.cache
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_\obj\Debug\UnityLesson_CSharp_Class_Object_Instance.csproj.SuggestedBindingRedirects.cache
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_\obj\Debug\UnityLesson_CSharp_Class_Object_Instance.csproj.CoreCompileInputs.cache
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_\obj\Debug\UnityLesson_CSharp_Class_.exe
+C:\Users\202020562\AppData\Local\GitHubDesktop\UnityClass\UnityLesson_CSharp_Class\UnityLesson_CSharp_Class_\obj\Debug\UnityLesson_CSharp_Class_.pdb

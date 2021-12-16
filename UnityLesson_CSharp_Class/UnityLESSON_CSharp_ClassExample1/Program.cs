@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 // Orc의 이름은 상급오크이다
 // Orc의 키는 240.2cm이다
 // Orc의 몸무게는 200.0kg이다
-// Orc의 나이는 140상이다
+// Orc의 나이는 140살이다
 // Orc의 성병은 남자다.
 // Orc는 현재 놀고 있는가? 아니다
 // -Orc의 기능 ( jump , smash )
